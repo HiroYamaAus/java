@@ -14,7 +14,7 @@
 import java.util.Scanner;//program uses class Scanner
 //Class that represent a Yeppoonn caravan park booking system 
 public class YeppoonCaravanPark {
-
+//Test
     /**
      * @param args the command line arguments
      */
